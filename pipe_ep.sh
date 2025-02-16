@@ -15,13 +15,15 @@ printf "\n\n"
 
 ##########################################################################################
 #                                                                                        
-#    ✅ Support ME ✅                 
-#                                                                                                 
-#     ✅ Stay updated:                                                                      
+#   ✅ EARN&POINT ✅                  
+#                                                                                        
+#                  
+#                                                                                        
+# ✅ Stay updated:                                                                      
 #     • Follow us on Telegram: https://t.me/Earnpoint10                            
-#     • Follow us on X: https://x.com/earnpoint10  
-
+#     • Follow us on X: https://x.com/earnpoint10                                        
 ##########################################################################################
+
 
 # Define colors
 GREEN="\033[0;32m"
