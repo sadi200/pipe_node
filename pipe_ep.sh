@@ -15,11 +15,11 @@ printf "\n\n"
 
 ##########################################################################################
 #                                                                                        
-#   ✅ EARN&POINT ✅                  
+#            ✅ EARN&POINT ✅                  
 #                                                                                        
 #                  
 #                                                                                        
-# ✅ Stay updated:                                                                      
+#            ✅ Stay updated:                                                                      
 #     • Follow us on Telegram: https://t.me/Earnpoint10                            
 #     • Follow us on X: https://x.com/earnpoint10                                        
 ##########################################################################################
